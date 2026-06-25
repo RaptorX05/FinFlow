@@ -5,18 +5,18 @@
 }
 body{
     font-family: Arial, sans-serif;
-    background-color: #f8fafc;
+    background-color: #ddeaf7;
 }
 nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 80px;
-    background-color: white;
+    background-color: rgb(200, 217, 250);
 }
 .nav-links a{
     text-decoration: none;
-    color: black;
+    color: rgb(46, 19, 19);
     margin: 0 15px;
     font-weight: 500;
 }
@@ -166,14 +166,14 @@ nav{
 
 .footer hr{
     margin:40px 0 20px;
-    border:1px solid #475569;
+    border:1px solid #3a495e;
 }
 
 .copyright{
     text-align:center;
 }
 .product-hero{
-    background:#f8fafc;
+    background:#d0dce7;
     text-align:center;
     padding:100px 80px;
 }
@@ -194,7 +194,7 @@ nav{
 .product-features{
     padding:80px;
     text-align:center;
-    background:white;
+    background:rgb(163, 137, 137);
 }
 
 .product-features h2{
@@ -203,7 +203,7 @@ nav{
 }
 .pricing{
     padding:80px;
-    background:#f8fafc;
+    background:#d2dee9;
     text-align:center;
 }
 
@@ -246,7 +246,7 @@ nav{
     cursor:pointer;
 }
 .about-section{
-    background:#f8fafc;
+    background:#acc2d8;
     text-align:center;
     padding:100px 80px;
 }
@@ -273,7 +273,7 @@ nav{
     margin-bottom:50px;
 }
 .contact-section{
-    background:#f8fafc;
+    background:#abbbca;
     text-align:center;
     padding:100px 80px;
 }
@@ -312,7 +312,7 @@ nav{
     justify-content:space-between;
     align-items:center;
     padding:20px 80px;
-    background:white;
+    background:rgb(200, 217, 250);
 }
 
 .logo h1{
